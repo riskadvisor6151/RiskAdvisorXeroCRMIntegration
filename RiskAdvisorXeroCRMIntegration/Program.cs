@@ -10,6 +10,8 @@ namespace RiskAdvisorXeroCRMIntegration
     {
         static void Main(string[] args)
         {
+            clsXero _test = new clsXero();
+            _test.Run();
         }
     }
 }
