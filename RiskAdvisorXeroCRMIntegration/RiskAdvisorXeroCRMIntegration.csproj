@@ -52,7 +52,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Actions.cs" />
     <Compile Include="clsXero.cs" />
+    <Compile Include="crmServiceHelpers.cs" />
+    <Compile Include="DeviceIdManager.cs" />
+    <Compile Include="Entities.cs" />
+    <Compile Include="OptionSets.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
