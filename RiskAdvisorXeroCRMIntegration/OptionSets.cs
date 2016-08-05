@@ -5,10 +5,10 @@
 //     Changes to this file may cause incorrect behavior and will be lost if
 //     the code is regenerated.
 // </auto-generated>
-// Created via this command line: "C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\crmsvcutil.exe" /url:"https://org00f5dcc0.api.crm6.dynamics.com/XRMServices/2011/Organization.svc" /namespace:"RiskAdvisorSalesProcess.RiskAdvisorTransactionCreator" /out:"C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\OptionSets.cs" /codecustomization:"DLaB.CrmSvcUtilExtensions.OptionSet.CreateOptionSetEnums,DLaB.CrmSvcUtilExtensions" /codegenerationservice:"DLaB.CrmSvcUtilExtensions.OptionSet.CustomCodeGenerationService,DLaB.CrmSvcUtilExtensions" /codewriterfilter:"DLaB.CrmSvcUtilExtensions.OptionSet.CodeWriterFilterService,DLaB.CrmSvcUtilExtensions" /namingservice:"DLaB.CrmSvcUtilExtensions.NamingService,DLaB.CrmSvcUtilExtensions" /username:"andrea.conte@riskadvisor.com.au" /password:"*********" 
+// Created via this command line: "C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\crmsvcutil.exe" /url:"https://org00f5dcc0.api.crm6.dynamics.com/XRMServices/2011/Organization.svc" /namespace:"RiskAdvisorSalesProcess.RiskAdvisorXeroCRMIntegration" /out:"C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\OptionSets.cs" /codecustomization:"DLaB.CrmSvcUtilExtensions.OptionSet.CreateOptionSetEnums,DLaB.CrmSvcUtilExtensions" /codegenerationservice:"DLaB.CrmSvcUtilExtensions.OptionSet.CustomCodeGenerationService,DLaB.CrmSvcUtilExtensions" /codewriterfilter:"DLaB.CrmSvcUtilExtensions.OptionSet.CodeWriterFilterService,DLaB.CrmSvcUtilExtensions" /namingservice:"DLaB.CrmSvcUtilExtensions.NamingService,DLaB.CrmSvcUtilExtensions" /username:"andrea.conte@riskadvisor.com.au" /password:"*********" 
 //------------------------------------------------------------------------------
 
-namespace RiskAdvisorSalesProcess.RiskAdvisorTransactionCreator
+namespace RiskAdvisorSalesProcess.RiskAdvisorXeroCRMIntegration
 {
 	
 	

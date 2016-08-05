@@ -12,7 +12,7 @@ using Xero.Api.Example.Applications.Private;
 using Xero.Api.Infrastructure.OAuth;
 using Xero.Api.Serialization;
 
-namespace RiskAdvisorXeroCRMIntegration
+namespace RiskAdvisorSalesProcess.RiskAdvisorXeroCRMIntegration
 {
     class clsXero
     {
@@ -27,15 +27,15 @@ namespace RiskAdvisorXeroCRMIntegration
             
             // Sequence is: 
             // Connect to Dynamics CRM
-            // Check if invoice has been sent to Xero
+            // Check if invoices have been sent to Xero
             // If not, send to Xero and store GUID back into Dynamics
             // If yes, Update status from Xero into Dynamics (Paid, etc)
             // Terminate
 
 
-
+                   
+                        
         }
-
-        
+                                       
     }
 }

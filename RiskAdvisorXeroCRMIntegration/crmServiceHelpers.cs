@@ -34,7 +34,7 @@ using Microsoft.Xrm.Sdk.Discovery;
 using Microsoft.Crm.Services.Utility;
 
 
-namespace RiskAdvisorSalesProcess.RiskAdvisorTransactionCreator
+namespace RiskAdvisorSalesProcess.RiskAdvisorXeroCRMIntegration
 {
     /// <summary>
     /// Provides server connection information.
