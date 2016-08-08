@@ -5,7 +5,7 @@
 //     Changes to this file may cause incorrect behavior and will be lost if
 //     the code is regenerated.
 // </auto-generated>
-// Created via this command line: "C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\crmsvcutil.exe" /url:"https://org00f5dcc0.api.crm6.dynamics.com/XRMServices/2011/Organization.svc" /generateActions /out:"C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\Actions.cs" /namespace:"RiskAdvisorSalesProcess.RiskAdvisorXeroCRMIntegration" /codecustomization:"DLaB.CrmSvcUtilExtensions.Action.CustomizeCodeDomService,DLaB.CrmSvcUtilExtensions" /codegenerationservice:"DLaB.CrmSvcUtilExtensions.Action.CustomCodeGenerationService,DLaB.CrmSvcUtilExtensions" /codewriterfilter:"DLaB.CrmSvcUtilExtensions.Action.CodeWriterFilterService,DLaB.CrmSvcUtilExtensions" /username:"andrea.conte@riskadvisor.com.au" /password:"*********" 
+// Created via this command line: "C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\crmsvcutil.exe" /url:"https://org00f5dcc0.api.crm6.dynamics.com/XRMServices/2011/Organization.svc" /generateActions /out:"C:\My tools\XrmToolBox\Plugins\CrmSvcUtil Ref\Actions.cs" /namespace:"RiskAdvisorSalesProcess.RiskAdvisorTransactionCreator" /codecustomization:"DLaB.CrmSvcUtilExtensions.Action.CustomizeCodeDomService,DLaB.CrmSvcUtilExtensions" /codegenerationservice:"DLaB.CrmSvcUtilExtensions.Action.CustomCodeGenerationService,DLaB.CrmSvcUtilExtensions" /codewriterfilter:"DLaB.CrmSvcUtilExtensions.Action.CodeWriterFilterService,DLaB.CrmSvcUtilExtensions" /username:"andrea.conte@riskadvisor.com.au" /password:"*********" 
 //------------------------------------------------------------------------------
 
 namespace RiskAdvisorSalesProcess.RiskAdvisorXeroCRMIntegration
